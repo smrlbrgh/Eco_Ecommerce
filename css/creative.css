@@ -2,8 +2,13 @@
   font-size: 30px;
 }
 .navbar-default
-.navbar-nav
-li
-a {
+.navbar-brand {
+  color: #fff;
+  font-size: 40px;
+}
+#dropdown {
+  color: #fff;
+}
+div.mynavbar {
   color: #fff;
 }
