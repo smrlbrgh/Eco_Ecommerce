@@ -15,3 +15,8 @@ div.mynavbar {
 section {
   padding: 0;
 }
+h2,
+h3 {
+  padding-top: 10px;
+  font-family: 'Special Elite', cursive;
+}
